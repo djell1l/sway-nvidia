@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Sway (NVIDIA)
-Comment=An i3-compatible Wayland compositor (NVIDIA Fixes)
-Exec=sway-nvidia
+Comment=Launch Sway on NVIDIA
+Exec=/usr/local/bin/sway-nvidia
 Type=Application
+DesktopNames=Sway
